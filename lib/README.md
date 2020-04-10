@@ -14,6 +14,12 @@ mvn install:install-file -Dfile=eye2.jar -DgroupId=eye -DartifactId=Eye -Dversio
 
 EyeCapture is a free image capture tool packed into one small executable Java jar file. The path to the captured image is stored on the clipboard so that you can paste it into the code. The tool is provided by [https://eyeautomate.com/eyecapture/](https://eyeautomate.com/eyecapture/)
 
+Launch it from a terminal window:
+
+```
+java -jar EyeCapture.jar
+```
+
 ## graphwalker-cli-4.2.0.jar
 
 The GraphWalker command line tool. The app is not needed for the workshops, but is provided as a convinience. Read more about the tool here:
@@ -25,3 +31,12 @@ The GraphWalker command line tool. The app is not needed for the workshops, but 
 
 GraphWalker Studio is tool used to create and verify the models created in the M.E.T.A. workshop. Read more about the tool here:
  * https://github.com/GraphWalker/graphwalker-project/wiki/GraphWalker-Studio
+ 
+Launch it from a terminal window:
+
+```
+java -jar graphwalker-studio-4.2.0.jar
+```
+
+Then start a browser, and enter the url `http://localhost:9090/studio.html`
+
