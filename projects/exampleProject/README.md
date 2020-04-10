@@ -20,7 +20,7 @@ You should expect
 [INFO] ------------------------------------------------------------------------
 ```
 
-There will be to errors showing sayig that GrapwWalker could not find a suitable context factory. You can ignore those errors.
+There will be 2 errors showing sayig that GrapwWalker could not find a suitable context factory. You can ignore those errors.
 
 ```
 [ERROR] No suitable context factory found for file: /home/krikar/dev/mbt/meta/github/projects/exampleProject/src/main/resources/img/UbuntuDesktopGuide.png
