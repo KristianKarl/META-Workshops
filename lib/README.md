@@ -38,5 +38,5 @@ Launch it from a terminal window:
 java -jar graphwalker-studio-4.2.0.jar
 ```
 
-Then start a browser, and enter the url `http://localhost:9090/studio.html`
+Then start a browser, and enter goto http://localhost:9090/studio.html
 
