@@ -1,6 +1,6 @@
 # The test targets used by M.E.T.A.
 
-These are the two special versions made of the [Petclinic](https://github.com/spring-projects/spring-petclinic)
+These are the two special versions made of the [Spring PetClinic Sample Application](https://github.com/spring-projects/spring-petclinic)
 
 ## Setup
 
@@ -11,7 +11,7 @@ Make sure to follow the instructions in this [README.md](../README.md)
 Note!
 
 1. They cannot be run both in parallel. Shutdown the version running, before launching the other.
-1. The need to be launched from within their folders
+1. They need to be launched from within their folders
 
 Version 1
 
