@@ -4,7 +4,7 @@ Guides and Instructions for participants
 
 ## Introduction
 
-This document describes a workshop on Model-based Visual GUI Testinghosted by the M.E.T.A. project in collaboration with AddQ, Spotify andArcticBlue. The document contains five sections:
+This document describes a workshop on Model-based Visual GUI Testinghosted by the M.E.T.A. project in collaboration with AddQ, Spotify and ArcticBlue. The document contains four sections:
 
 1. **Setup the environment**  - How to setup the environment with Graphwalker, IntelliJ and Eye2.
 
@@ -18,7 +18,7 @@ This document describes a workshop on Model-based Visual GUI Testinghosted by th
 
 ### **1.1 Install IntelliJ**
 
-Goto https://www.jetbrains.com/idea/download/ download and install the **Community** versin of IntelliJ IDEA.
+Goto https://www.jetbrains.com/idea/download/ download and install the **Community** version of IntelliJ IDEA.
 
 ### **1.2 Install Java 8 from Oracle**
 
@@ -51,6 +51,8 @@ Open a terminal window and run
 ```shell
 git clone https://github.com/KristianKarl/META-Workshops.git
 ```
+
+If you don't have `git` get it from here https://git-scm.com/downloads
 
 The change the folder into the repository folder
 
@@ -115,15 +117,13 @@ When the project is imported, make sure that Java 8 is used as the Projects SDK.
 
 1. Open a web-browser and go to the URL: http://localhost:9090/studio.html
 
-1. Create a new model by pressing + and name it by expanding the properties list by clicking on the bottom icon of the bar dark grey bar to the left and changing the property item “Name” to SmallTest (OBS, the naming is important!).
+1. Create a new model by pressing + and name it by expanding the properties list by clicking on the bottom icon of the bar dark grey bar to the left and changing the property item **Name** to `MySmallTest` (OBS, the naming is important!).
 
 1. Create a vertex by holding down the **v** key and clicking on the model area. See also https://github.com/GraphWalker/graphwalker-project/wiki/GraphWalker-Studio
 
 1. Connect two vertexes with an edge by pressing **e** and dragging and dropping between the vertexes. See also https://github.com/GraphWalker/graphwalker-project/wiki/GraphWalker-Studio
 
 1. Rename vertexes/edges by clicking on them and naming it in the properties list (left side bar)
-
-1. Name your model `MySmallTest`.
 
 1. Select one vertex and make it a start element by toggling `Start element` in the properties list (bottom of the list). OBS! Preferably this node is not part of the modelled scenario.
 
