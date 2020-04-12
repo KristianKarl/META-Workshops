@@ -13,7 +13,7 @@ mvn -version
 You should expect to find the java version and vendor in the output like:
 
 ```
-Java version: 1.8.0_201, vendor: Oracle Corporation, runtime: /usr/lib/jvm/java-8-oracle/jre
+Java version: 1.8.0_201, vendor: Oracle Corporation
 ```
 
 ## Install the eye2.jar into you local maven repository

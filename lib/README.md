@@ -6,7 +6,7 @@ An image recognition java library provided by [https://eyeautomate.com/](https:/
 
 To be used in the M.E.T.A. it needs to be installed into your local maven repository
 
-```
+```shell
 mvn install:install-file -Dfile=eye2.jar -DgroupId=eye -DartifactId=Eye -Dversion=2 -Dpackaging=jar
 ```
 
@@ -16,7 +16,7 @@ EyeCapture is a free image capture tool packed into one small executable Java ja
 
 Launch it from a terminal window:
 
-```
+```shell
 java -jar EyeCapture.jar
 ```
 
@@ -34,9 +34,8 @@ GraphWalker Studio is tool used to create and verify the models created in the M
  
 Launch it from a terminal window:
 
-```
+```shell
 java -jar graphwalker-studio-4.2.0.jar
 ```
 
 Then start a browser, and enter goto http://localhost:9090/studio.html
-
