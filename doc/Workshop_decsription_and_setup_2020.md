@@ -1,3 +1,5 @@
+<img align="right" src="https://raw.githubusercontent.com/KristianKarl/META-Workshops/master/doc/img/bth.png">
+
 # WORKSHOP: Model-based Visual GUI Testing
 
 Guides and Instructions for participants
